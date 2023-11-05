@@ -1,0 +1,13 @@
+= Knowledge Management C++
+Doc Writer <christian.popescu@outlook.com>
+v 1.1, 2023-11-05
+:sectnums:
+:toc:
+:toclevels: 5
+:pdf-page-size: A3
+
+== Introduction
+
+Knwoledge Management for C++.
+
+

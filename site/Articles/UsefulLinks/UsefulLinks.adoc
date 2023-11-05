@@ -1,0 +1,44 @@
+= Useful Links
+Doc Writer <christian.popescu@outlook.com>
+v 1.1, 2023-11-05
+:sectnums:
+:toc:
+:toclevels: 5
+:pdf-page-size: A3
+
+== Links (Work in progress)
+
+The purpose is to keep a list of useful links.
+
+https://isocpp.org/[The home of Standard C++ on the web]
+
+
+
+=== Guidelines  and Coding Standards
+
+https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines[C++ core guidelines]
+
+https://google.github.io/styleguide/cppguide.html[Google C++ Style Guide]
+
+https://bloomberg.github.io/bde/knowledge_base/coding_standards.html[Bloomberg]
+
+https://www.stroustrup.com/bs_faq2.html[Bjarne Stroustrup style guide]
+
+link:"../../Resources/CppCon_Guidelines - Writing good C++ 14 - Bjarne Stroustrup.pdf"[CppCon_Guidelines - Writing good C++ 14 - Bjarne Stroustrup]
+
+
+=== Libraries
+
+https://abseil.io/[Abseil - Google]
+
+=== Blogs
+
+https://www.stroustrup.com/index.html[Bjarne Stroustrup]
+
+https://herbsutter.com[Herb Sutter]
+
+https://devblogs.microsoft.com/oldnewthing[Raymond Chen]
+
+
+
+
