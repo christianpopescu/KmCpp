@@ -10,4 +10,8 @@ v 1.1, 2023-11-05
 
 Knwoledge Management for C++.
 
+===
+
+link:Articles/NotesAndIdeas.adoc[Notes and Ideas]
+
 

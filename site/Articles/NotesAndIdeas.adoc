@@ -1,0 +1,36 @@
+= Useful Links
+Doc Writer <christian.popescu@outlook.com>
+v 1.1, 2023-11-10
+:sectnums:
+:toc:
+:toclevels: 5
+:pdf-page-size: A3
+
+== Bulk Ideas
+
+Subject to document:
+
+* Smart Pointers
+
+* Rvalues, Move semantics
+
+   Scott Meyers
+
+* Concurrency
+
+* Generic Programming
+
+* Ranges
+
+* String views
+
+* Modules
+
+* Coroutines
+
+* std::span
+
+* Argument-dependent lookup (Koenig lookup)
+
+* Inheritance techniques
+
