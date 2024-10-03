@@ -16,15 +16,10 @@ https://isocpp.org/[The home of Standard C++ on the web]
 
 === Guidelines  and Coding Standards
 
-https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines[C++ core guidelines]
 
-https://google.github.io/styleguide/cppguide.html[Google C++ Style Guide]
 
-https://bloomberg.github.io/bde/knowledge_base/coding_standards.html[Bloomberg]
+link:../../Resources/CppCon_Guidelines_Writing_good_Cpp14_Bjarne_Stroustrup.pdf[CppCon_Guidelines - Writing good C++ 14 - Bjarne Stroustrup]
 
-https://www.stroustrup.com/bs_faq2.html[Bjarne Stroustrup style guide]
-
-link:"../../Resources/CppCon_Guidelines - Writing good C++ 14 - Bjarne Stroustrup.pdf"[CppCon_Guidelines - Writing good C++ 14 - Bjarne Stroustrup]
 
 
 === Libraries

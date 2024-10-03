@@ -1,0 +1,19 @@
+= Interesting Articles
+Doc Writer <christian.popescu@outlook.com>
+v 1.0, 2024-10-03
+:sectnums:
+:toc:
+:toclevels: 5
+:pdf-page-size: A3
+
+== Description
+
+This is about interesting articles C++ related.
+
+=== Scott Meyers - how non member functions improve encapsulation
+
+https://www.drdobbs.com/cpp/how-non-member-functions-improve-encapsu/184401197[Scott Meyers - how non member functions improve encapsulation]
+
+
+=== CppCon_Guidelines - Writing good C++ 14 - Bjarne Stroustrup
+link:../Resources/CppCon_Guidelines_Writing_good_Cpp14_Bjarne_Stroustrup.pdf[CppCon_Guidelines - Writing good C++ 14 - Bjarne Stroustrup]
