@@ -35,5 +35,7 @@ https://herbsutter.com[Herb Sutter]
 https://devblogs.microsoft.com/oldnewthing[Raymond Chen]
 
 
+=== Miscellaneous
 
+https://isocpp.org/wiki/faq/mixing-c-and-cpp[How to mix C and C++]
 
