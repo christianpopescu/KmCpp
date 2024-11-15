@@ -36,6 +36,8 @@ https://devblogs.microsoft.com/oldnewthing[Raymond Chen]
 
 
 === Miscellaneous
+==== C,  C++
 
 https://isocpp.org/wiki/faq/mixing-c-and-cpp[How to mix C and C++]
+https://learn.microsoft.com/en-us/archive/msdn-magazine/2015/july/c-using-stl-strings-at-win32-api-boundaries[Using STL strings at wind32 API boundaries]
 
