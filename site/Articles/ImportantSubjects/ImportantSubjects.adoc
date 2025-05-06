@@ -1,0 +1,16 @@
+= Important Subjects
+Doc Writer <christian.popescu@outlook.com>
+v 1.0, 2025-05-06
+:sectnums:
+:toc:
+:toclevels: 5
+:pdf-page-size: A3
+
+
+== String View
+
+
+=== Articles & Videos
+
+* https://www.youtube.com/watch?v=PEvkBmuMIr8[How to Use string_view in C++ - Basics, Benefits, and Best Practices - Jasmine Lopez & Prithvi Okade]
+
