@@ -17,8 +17,8 @@ v 1.0, 2025-05-06
 * Improves performance by working with existing character buffers
 
 === Recommended CppCon Talks
-*  https://www.youtube.com/watch?v=PEvkBmuMIr8[*How to Use string_view in C++* (CppCon 2024)] – Jasmine Lopez & Prithvi Okade explain the fundamentals of string_view, its advantages over std::string, comparisons with std::span, and best practices for efficient string handling.
-* https://www.youtube.com/watch?v=H9gAaNRoon4[*CppCon 2015: Marshall Clow - string_view*] – Covers the introduction of string_view in the Library Fundamentals TS, explaining its purpose and how it improves performance by avoiding unnecessary string copies.
+* https://www.youtube.com/watch?v=PEvkBmuMIr8[*How to Use string_view in C++* (CppCon 2024)] – Jasmine Lopez & Prithvi Okade explain the fundamentals of string_view, its advantages over std::string, comparisons with std::span, and best practices for efficient string handling.
+* https://www.youtube.com/watch?v=H9gAaNRoon4[*CppCon 2015: Marshall Clow* - string_view] – Covers the introduction of string_view in the Library Fundamentals TS, explaining its purpose and how it improves performance by avoiding unnecessary string copies.
 
 === Code Example
 [source,cpp]
@@ -38,9 +38,7 @@ int main() {
 
 === Summary
 Using `std::string_view` enhances efficiency in string processing by reducing unnecessary memory operations while maintaining easy-to-use string functionality.
-=== Articles & Videos
 
-* https://www.youtube.com/watch?v=PEvkBmuMIr8[How to Use string_view in C++ - Basics, Benefits, and Best Practices - Jasmine Lopez & Prithvi Okade]
 
 == Move semantics
 
