@@ -9,8 +9,45 @@ v 1.0, 2025-05-06
 
 == String View
 
+`std::string_view` is a non-owning reference to a contiguous sequence of characters, introduced in C++17 to improve efficiency in string handling.
 
+=== Benefits
+* Avoids unnecessary allocations and copies of `std::string`
+* Supports standard string operations without modifying the original data
+* Improves performance by working with existing character buffers
+
+=== Recommended CppCon Talks
+*  https://www.youtube.com/watch?v=PEvkBmuMIr8[*How to Use string_view in C++* (CppCon 2024)] – Jasmine Lopez & Prithvi Okade explain the fundamentals of string_view, its advantages over std::string, comparisons with std::span, and best practices for efficient string handling.
+* https://www.youtube.com/watch?v=H9gAaNRoon4[*CppCon 2015: Marshall Clow - string_view*] – Covers the introduction of string_view in the Library Fundamentals TS, explaining its purpose and how it improves performance by avoiding unnecessary string copies.
+
+=== Code Example
+[source,cpp]
+----
+#include <iostream>
+#include <string_view>
+
+void print(std::string_view sv) {
+    std::cout << "StringView: " << sv << '\n';
+}
+
+int main() {
+    std::string str = "Hello, C++!";
+    print(str);  // Avoids extra copies
+}
+----
+
+=== Summary
+Using `std::string_view` enhances efficiency in string processing by reducing unnecessary memory operations while maintaining easy-to-use string functionality.
 === Articles & Videos
 
 * https://www.youtube.com/watch?v=PEvkBmuMIr8[How to Use string_view in C++ - Basics, Benefits, and Best Practices - Jasmine Lopez & Prithvi Okade]
 
+== Move semantics
+
+Here are some great *CppCon* talks on move semantics:
+
+* https://www.youtube.com/watch?v=Bt3zcJZIalk[Back to Basics: Move Semantics - Nicolai Josuttis - CppCon 2021]: A deep dive into move semantics, covering lvalues, rvalues, move constructors, and std::move. This talk explains why move semantics improve performance in C++.
+
+* https://www.youtube.com/watch?v=knEaMpytRMA[Back to Basics: C++ Move Semantics - Andreas Fertig - CppCon 2022]: A practical session that demystifies move semantics with clear examples and best practices.
+
+* https://www.youtube.com/watch?v=FUsQPIoYoRM[Moved-from Objects in C++ - Jon Kalb - CppCon 2024]: Focuses on the state of moved-from objects and how to write better C++ code using move semantics.
