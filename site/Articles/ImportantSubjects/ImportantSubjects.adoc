@@ -49,3 +49,12 @@ Here are some great *CppCon* talks on move semantics:
 * https://www.youtube.com/watch?v=knEaMpytRMA[Back to Basics: C++ Move Semantics - Andreas Fertig - CppCon 2022]: A practical session that demystifies move semantics with clear examples and best practices.
 
 * https://www.youtube.com/watch?v=FUsQPIoYoRM[Moved-from Objects in C++ - Jon Kalb - CppCon 2024]: Focuses on the state of moved-from objects and how to write better C++ code using move semantics.
+
+
+== Constexpr
+
+* https://www.youtube.com/watch?v=tA6LbPyYdco[Back to Basics: const and constexpr – Rainer Grimm (CppCon 2021)] Duration: 1 hour 1 minute Overview: Covers the importance of constexpr in modern C++ programming.
+
+* https://www.youtube.com/watch?v=MdrfPSUtMVM[Your New Mental Model of constexpr – Jason Turner (CppCon 2021)] Duration: 1 hour 4 minutes Overview: Explains common misconceptions about constexpr and how to use it effectively.
+
+* https://www.youtube.com/watch?v=p3ERaKsQmuU[Lightning Talk: The UB Detector: constexpr – Andreas Fertig (CppCon 2024)] Duration: 6 minutes 43 seconds Overview: Discusses whether constexpr functions are truly free of undefined behavior.
