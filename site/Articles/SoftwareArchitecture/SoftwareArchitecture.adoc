@@ -1,0 +1,14 @@
+= Software Architecture
+Doc Writer <christian.popescu@outlook.com>
+v 1.0, 2025-05-10
+:sectnums:
+:toc:
+:toclevels: 5
+:pdf-page-size: A3
+
+== Dependency Injection
+
+
+
+* https://www.youtube.com/watch?v=kCYo2gJ3Y38[Dependency Injection in C++ - A Practical Guide - Peter Muldoon - C++Now 2024]
+* https://www.youtube.com/watch?v=as5Z45G59Ws&t=456s[Refactoring C++ Code for Unit testing with Dependency Injection - Peter Muldoon - CppCon 2024]

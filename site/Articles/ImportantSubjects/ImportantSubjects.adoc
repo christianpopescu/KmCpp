@@ -58,3 +58,5 @@ Here are some great *CppCon* talks on move semantics:
 * https://www.youtube.com/watch?v=MdrfPSUtMVM[Your New Mental Model of constexpr – Jason Turner (CppCon 2021)] Duration: 1 hour 4 minutes Overview: Explains common misconceptions about constexpr and how to use it effectively.
 
 * https://www.youtube.com/watch?v=p3ERaKsQmuU[Lightning Talk: The UB Detector: constexpr – Andreas Fertig (CppCon 2024)] Duration: 6 minutes 43 seconds Overview: Discusses whether constexpr functions are truly free of undefined behavior.
+
+
