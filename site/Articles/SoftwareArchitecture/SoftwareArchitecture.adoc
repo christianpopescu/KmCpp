@@ -6,9 +6,30 @@ v 1.0, 2025-05-10
 :toclevels: 5
 :pdf-page-size: A3
 
+== CPP Con
+
+* https://www.youtube.com/watch?v=ZAji7PkXaKY&list=PLHTh1InhhwT6VxYHtoWIvOup9gz0p95Qr[CppCon - 2020]
+* https://www.youtube.com/playlist?list=PLHTh1InhhwT6bY4nS4p7f5b_754myC3ze[Cpp Con - All sessions 2021]
+* https://www.youtube.com/watch?v=2BuJjaGuInI&list=PLHTh1InhhwT6c2JNtUiJkaH8YRqzhU7Ag[Cpp Con - 2022]
+* https://www.youtube.com/watch?v=I8UvQKvOSSw&list=PLHTh1InhhwT7gQEuYznhhvAYTel0qzl72[CppCon - 2023]
+* https://www.youtube.com/watch?v=FNi1-x4pojs&list=PLHTh1InhhwT6U7t1yP2K8AtTEKmcM3XU_[CppCon - 2024]
+
 == Dependency Injection
 
 
 
 * https://www.youtube.com/watch?v=kCYo2gJ3Y38[Dependency Injection in C++ - A Practical Guide - Peter Muldoon - C++Now 2024]
 * https://www.youtube.com/watch?v=as5Z45G59Ws&t=456s[Refactoring C++ Code for Unit testing with Dependency Injection - Peter Muldoon - CppCon 2024]
+
+
+== Software design
+
+* https://www.youtube.com/watch?v=VVKJQ-QrMYg[Design Patterns - The Most Common Misconceptions (1 of N) - Klaus Iglberger - NDC TechTown. 2023]
+
+* https://www.youtube.com/watch?v=DEtne_KZ74Y[C++ Design Patterns - The Most Common Misconceptions (2 of N) - Klaus Iglberger - CppCon 2024]
+
+* https://www.youtube.com/watch?v=PEcy1vYHb8A[Breaking Dependencies - The Visitor Design Pattern in Cpp - Klaus Iglberger - CppCon 2022]
+
+* https://www.youtube.com/watch?v=motLOioLJfg&t=1587s[Back to Basics: Designing Classes (part 1 of 2) - Klaus Iglberger - CppCon 2021]
+
+* https://www.youtube.com/watch?v=O65lEiYkkbc[Back to Basics: Designing Classes (part 2 of 2) - Klaus Iglberger - CppCon 2021]

@@ -1,0 +1,19 @@
+= Vcpkg - Package manager
+Doc Writer <christian.popescu@outlook.com>
+v 1.1, 2024-11-30
+:sectnums:
+:toc:
+:toclevels: 5
+:pdf-page-size: A3
+
+== Introduction
+
+Vcpkg is a free and open-source C/C\++ package manager maintained by Microsoft and the C++ community that runs on Windows, macOS, and Linux.
+
+It is a C++ tool at heart and is written using C\++ and CMake scripts. It is designed to address the unique pain points with managing C/C\++ libraries.
+
+=== Links
+
+https://learn.microsoft.com/en-us/vcpkg/[Microsoft Documentation about vcpkg]
+
+https://vcpkg.io/en/index.html[Vcpkg site]
