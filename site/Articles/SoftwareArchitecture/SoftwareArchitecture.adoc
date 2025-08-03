@@ -1,12 +1,14 @@
 = Software Architecture
 Doc Writer <christian.popescu@outlook.com>
-v 1.0, 2025-05-10
+v 1.1, 2025-08-03
 :sectnums:
 :toc:
 :toclevels: 5
 :pdf-page-size: A3
 
 == CPP Con
+
+* https://www.youtube.com/@CppCon/playlists[CppCon - Playlists]
 
 * https://www.youtube.com/watch?v=ZAji7PkXaKY&list=PLHTh1InhhwT6VxYHtoWIvOup9gz0p95Qr[CppCon - 2020]
 * https://www.youtube.com/playlist?list=PLHTh1InhhwT6bY4nS4p7f5b_754myC3ze[Cpp Con - All sessions 2021]
@@ -33,3 +35,9 @@ v 1.0, 2025-05-10
 * https://www.youtube.com/watch?v=motLOioLJfg&t=1587s[Back to Basics: Designing Classes (part 1 of 2) - Klaus Iglberger - CppCon 2021]
 
 * https://www.youtube.com/watch?v=O65lEiYkkbc[Back to Basics: Designing Classes (part 2 of 2) - Klaus Iglberger - CppCon 2021]
+
+* https://www.youtube.com/watch?v=4eeESJQk-mw[Breaking Dependencies: Type Erasure - A Design Analysis - Klaus Iglberger - CppCon 2021]
+
+* https://www.youtube.com/watch?v=qn6OqefuH08&t=2009s[Breaking Dependencies - C++ Type Erasure - The Implementation Details - Klaus Iglberger CppCon 2022]
+
+* https://www.youtube.com/watch?v=WLDT1lDOsb4[CppCon 2017: Klaus Iglberger “Free Your Functions!”]
