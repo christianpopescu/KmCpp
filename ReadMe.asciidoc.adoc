@@ -1,0 +1,3 @@
+= Knowledge Management about C++
+
+link:site/KmCpp.adoc[Site entry point]

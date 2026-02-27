@@ -10,6 +10,12 @@ v 1.1, 2023-11-05
 
 Knwoledge Management for C++.
 
+
+== Articles
+
+link:Articles/SoftwareArchitecture/SoftwareArchitecture.adoc[Software Architecture]
+Contains link to CppCon videos
+
 == Interesting links
 
 * ISO Cpp site
