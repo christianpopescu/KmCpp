@@ -1,6 +1,6 @@
 = Software Architecture
 Doc Writer <christian.popescu@outlook.com>
-v 1.1, 2025-08-03
+v 1.2, 2026-02-27
 :sectnums:
 :toc:
 :toclevels: 5
@@ -15,6 +15,7 @@ v 1.1, 2025-08-03
 * https://www.youtube.com/watch?v=2BuJjaGuInI&list=PLHTh1InhhwT6c2JNtUiJkaH8YRqzhU7Ag[Cpp Con - 2022]
 * https://www.youtube.com/watch?v=I8UvQKvOSSw&list=PLHTh1InhhwT7gQEuYznhhvAYTel0qzl72[CppCon - 2023]
 * https://www.youtube.com/watch?v=FNi1-x4pojs&list=PLHTh1InhhwT6U7t1yP2K8AtTEKmcM3XU_[CppCon - 2024]
+* https://www.youtube.com/watch?v=GHctcSBd6Z4&list=PLHTh1InhhwT57vblPGsVag5MkTm_Z9-uq[CppCon - 2025]
 
 == Dependency Injection
 
@@ -41,3 +42,9 @@ v 1.1, 2025-08-03
 * https://www.youtube.com/watch?v=qn6OqefuH08&t=2009s[Breaking Dependencies - C++ Type Erasure - The Implementation Details - Klaus Iglberger CppCon 2022]
 
 * https://www.youtube.com/watch?v=WLDT1lDOsb4[CppCon 2017: Klaus Iglberger “Free Your Functions!”]
+
+== Code review
+
+* https://www.youtube.com/watch?v=6a3CNRMssQE&t=1432s [Mastering the Code Review Process - Pete Muldoon - CppCon 2025]
+
+* https://www.youtube.com/watch?v=mMrIwY1n74g [Back to Basics: How To Improve C++ Code Reviews - Chandranath Bhattacharyya & Kathleen Baker]
