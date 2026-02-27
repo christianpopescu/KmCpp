@@ -52,6 +52,6 @@ All the playlists since 2014
 
 == Code review
 
-* https://www.youtube.com/watch?v=6a3CNRMssQE&t=1432s [Mastering the Code Review Process - Pete Muldoon - CppCon 2025]
+* https://www.youtube.com/watch?v=6a3CNRMssQE&t=1432s[Mastering the Code Review Process - Pete Muldoon - CppCon 2025]
 
-* https://www.youtube.com/watch?v=mMrIwY1n74g [Back to Basics: How To Improve C++ Code Reviews - Chandranath Bhattacharyya & Kathleen Baker]
+* https://www.youtube.com/watch?v=mMrIwY1n74g[Back to Basics: How To Improve C++ Code Reviews - Chandranath Bhattacharyya & Kathleen Baker]
